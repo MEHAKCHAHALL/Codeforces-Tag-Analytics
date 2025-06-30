@@ -1,5 +1,4 @@
-
- ps://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:d2f919f1-ed41-42b1-931c-dd12ac9d0866
+https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:d2f919f1-ed41-42b1-931c-dd12ac9d0866
 
 Codeforces Tag Analytics: A User-Specific Problem Recommender System
 📌 Project Overview
