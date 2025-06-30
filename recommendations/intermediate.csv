@@ -1,0 +1,11 @@
+contestId,index,name,rating,tags,similarity
+2,A,Winner,1500,"['hashing', 'implementation']",0.0
+2115,A,Gellyfish and Flaming Peony,1500,"['constructive algorithms', 'dp', 'math', 'number theory']",0.0
+2114,E,Kirei Attacks the Estate,1400,"['dfs and similar', 'dp', 'greedy', 'trees']",0.0
+2114,D,Come a Little Closer,1400,"['brute force', 'greedy', 'implementation', 'math']",0.0
+2111,D,Creating a Schedule,1400,"['constructive algorithms', 'data structures', 'greedy', 'implementation', 'sortings']",0.0
+2110,C,Racing,1400,"['constructive algorithms', 'greedy']",0.0
+2109,C1,Hacking Numbers (Easy Version),1500,"['bitmasks', 'constructive algorithms', 'interactive', 'math', 'number theory']",0.0
+2108,C,Neo's Escape,1500,"['binary search', 'brute force', 'data structures', 'dp', 'dsu', 'graphs', 'greedy', 'implementation']",0.0
+2107,C,Maximum Subarray Sum,1500,"['binary search', 'constructive algorithms', 'dp', 'implementation', 'math']",0.0
+100,D,World of Mouth,1500,"['*special', 'strings']",0.0

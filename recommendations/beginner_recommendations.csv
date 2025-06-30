@@ -1,0 +1,11 @@
+contestId,index,name,tags,rating,solvedCount,tag_str,similarity
+1927,D,Find the Different Ones!,"['binary search', 'brute force', 'data structures', 'dp', 'dsu', 'greedy', 'two pointers']",1300,26127,binary search brute force data structures dp dsu greedy two pointers,0.527759396560251
+1948,C,Arrow Path,"['brute force', 'constructive algorithms', 'dfs and similar', 'dp', 'graphs', 'shortest paths']",1300,19070,brute force constructive algorithms dfs and similar dp graphs shortest paths,0.5277593965602508
+1661,B,Getting Zero,"['bitmasks', 'brute force', 'dfs and similar', 'dp', 'graphs', 'greedy', 'shortest paths']",1300,19027,bitmasks brute force dfs and similar dp graphs greedy shortest paths,0.5277593965602508
+489,B,BerSU Ball,"['dfs and similar', 'dp', 'graph matchings', 'greedy', 'sortings', 'two pointers']",1200,52248,dfs and similar dp graph matchings greedy sortings two pointers,0.5073921644158869
+932,B,Recursive Queries,"['binary search', 'data structures', 'dfs and similar']",1300,8489,binary search data structures dfs and similar,0.4961860617779742
+2025,C,New Game,"['binary search', 'brute force', 'greedy', 'implementation', 'sortings', 'two pointers']",1300,17200,binary search brute force greedy implementation sortings two pointers,0.4862166383263151
+1870,C,Colorful Table,"['binary search', 'data structures', 'dp', 'implementation', 'math', 'two pointers']",1300,12365,binary search data structures dp implementation math two pointers,0.4862166383263151
+1973,B,"Cat, Fox and the Lonely Array","['binary search', 'bitmasks', 'data structures', 'greedy', 'math', 'two pointers']",1300,15574,binary search bitmasks data structures greedy math two pointers,0.4862166383263151
+1763,B,Incinerate,"['binary search', 'brute force', 'data structures', 'implementation', 'math', 'sortings']",1200,15554,binary search brute force data structures implementation math sortings,0.4862166383263151
+1968,D,Permutation Game,"['brute force', 'dfs and similar', 'games', 'graphs', 'greedy', 'math']",1300,16323,brute force dfs and similar games graphs greedy math,0.48621663832631506

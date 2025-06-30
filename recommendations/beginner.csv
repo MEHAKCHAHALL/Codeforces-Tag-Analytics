@@ -1,0 +1,11 @@
+contestId,index,name,rating,tags,similarity
+4,B,Before an Exam,1200,"['constructive algorithms', 'greedy']",0.0
+2118,C,Make It Beautiful,1300,"['bitmasks', 'data structures', 'greedy', 'math']",0.0
+2118,B,Make It Permutation,1200,['constructive algorithms'],0.0
+2117,D,Retaliation,1200,"['binary search', 'math', 'number theory']",0.0
+2117,C,Cool Partition,1200,"['data structures', 'greedy']",0.0
+2116,B,Gellyfish and Baby's Breath,1300,"['greedy', 'math', 'sortings']",0.0
+2113,B,Good Start,1200,"['constructive algorithms', 'math']",0.0
+2109,B,Slice to Survive,1200,"['bitmasks', 'greedy', 'math']",0.0
+2108,B,SUMdamental Decomposition,1300,"['bitmasks', 'constructive algorithms', 'greedy', 'implementation', 'math']",0.0
+2101,A,Mex in the Grid,1300,"['constructive algorithms', 'implementation']",0.0

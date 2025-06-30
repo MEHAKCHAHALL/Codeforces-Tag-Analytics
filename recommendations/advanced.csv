@@ -1,0 +1,11 @@
+contestId,index,name,rating,tags,similarity
+1,B,Spreadsheet,1600,"['implementation', 'math']",0.0
+2118,D1,"Red Light, Green Light (Easy version)",1700,"['brute force', 'dfs and similar', 'dp', 'graphs', 'implementation', 'number theory']",0.0
+2117,E,Lost Soul,1600,"['brute force', 'greedy']",0.0
+2113,C,Smilo and Minecraft,1700,"['brute force', 'constructive algorithms', 'greedy']",0.0
+2110,D,Fewer Batteries,1700,"['binary search', 'dfs and similar', 'dp', 'graphs', 'greedy', 'hashing']",0.0
+2109,C2,Hacking Numbers (Medium Version),1700,"['constructive algorithms', 'interactive', 'math', 'number theory']",0.0
+2104,E,Unpleasant Strings,1700,"['binary search', 'dp', 'greedy', 'strings']",0.0
+2103,C,Median Splits,1600,"['binary search', 'greedy', 'implementation', 'sortings']",0.0
+2096,C,Wonderful City,1700,"['dp', 'implementation']",0.0
+2094,G,Chimpanzini Bananini,1700,"['data structures', 'implementation', 'math']",0.0
